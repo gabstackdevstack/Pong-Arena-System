@@ -30,7 +30,7 @@ Um sistema de Pong multiplayer local em Python. Autenticação de jogadores, ran
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/gabrielinfosec/Pong-Arena-System.git
+git clone https://github.com/gabrstackbuild/Pong-Arena-System.git
 cd Pong-Arena-System
 ```
 
@@ -116,9 +116,9 @@ Os seguintes dados são persistidos:
 
 ## 👨‍💻 Autor
 
-**Gabriel** - [@gabrielinfosec](https://github.com/gabrielinfosec)
+**Gabriel** - [@ggabrstackbuild](https://github.com/gabrstackbuild)
 
-Estudante de Análise e Desenvolvimento de Sistemas | Focado em Cybersecurity
+Estudante de Análise e Desenvolvimento de Sistemas | Focado em Desenvolvimento Full Stack 
 
 ---
 
