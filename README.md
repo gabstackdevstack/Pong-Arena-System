@@ -104,19 +104,9 @@ Os seguintes dados são persistidos:
 
 ---
 
-## 📌 Próximas Features
-
-- [ ] Modo contra IA
-- [ ] Interface melhorada
-- [ ] Sons e efeitos
-- [ ] Estatísticas avançadas
-- [ ] Modo online
-
----
-
 ## 👨‍💻 Autor
 
-**Gabriel** - [@ggabrstackbuild](https://github.com/gabrstackbuild)
+**Gabriel** - [@gabrstackbuild](https://github.com/gabrstackbuild)
 
 Estudante de Análise e Desenvolvimento de Sistemas | Focado em Desenvolvimento Full Stack 
 
